@@ -1,5 +1,5 @@
 current directory: /home/davidpark/colpark/colpark.github.io/vendor/bundle/ruby/2.5.0/gems/ffi-1.10.0/ext/ffi_c
-/usr/bin/ruby2.5 -r ./siteconf20200302-22535-1711hxx.rb extconf.rb
+/usr/bin/ruby2.5 -r ./siteconf20200302-30268-j7rnbg.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
@@ -157,4 +157,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.so
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20200302-22535-1il1orx
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20200302-30268-1g36tu9
