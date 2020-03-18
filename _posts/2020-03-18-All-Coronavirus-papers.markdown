@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coronavirus papers"
+title:  "All Coronavirus papers"
 date:   2020-03-18 11:24:45 -0400
 categories: jekyll update
 ---
